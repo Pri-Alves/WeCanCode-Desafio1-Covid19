@@ -7,11 +7,16 @@ A página deve obrigatoriamente ter arquivos separados de HTML e CSS, ser hard c
 Além disso, criem um menu de navegação e as páginas respectivas de:
 
 - Home: as notícias mencionadas;
-
 - Sobre: uma página do autor (você!) falando do seu background profissional, com link para linkedin;
-
 - Contato: um formulário onde os visitantes possam te procurar (ele não precisa ser hard coded, pode usar um form pronto de ferramentas de marketing)
-
 - Saiba Mais: curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
 
 Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
+
+## Observações
+
+Link do site pronto: https://serene-volhard-57fb7e.netlify.app/index.html
+
+Pontos a melhorar:
+- Torna-lo responsivo
+- implementar o funcionamento dos campos de contato
